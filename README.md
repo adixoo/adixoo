@@ -13,6 +13,7 @@
 <p align="left">
 <a href="https://dev.to/aditya_ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aditya_ku" height="30" width="40" /></a>
 <a href="https://twitter.com/aadi_ku" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aadi_ku" height="30" width="40" /></a>
+<a href="https://instagram.com/aditya.anand.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya.anand.dev" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
