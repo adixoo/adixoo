@@ -17,6 +17,8 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
+<h3>Languages:</h3>
+Python | JavaScript | TypeScript | Golang | Rust
 <h3>Frontend:</h3>
  
  JavaScript | TypeScript | React JS | Vue JS | Svelte | Bootstrap | TailwindCSS | Sass | Redux
