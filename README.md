@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">Full-stack Developer</h3>
+<h1>Hi 👋, I'm Aditya</h1>
+<h3>Full-stack Developer</h3>
 
 - 🔭 I’m currently working on [PeSe - A Fintech App](https://pese.in/) & [Mediquizs](https://mediquizs.vercel.app/)
 
