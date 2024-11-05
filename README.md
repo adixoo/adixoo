@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h2 align="center">A Full-stack Developer</h2>
+<h3 align="center">Full-stack Developer</h3>
 
 - 🔭 I’m currently working on [PeSe - A Fintech App](https://pese.in/) & [Mediquizs](https://mediquizs.vercel.app/)
 
@@ -17,4 +17,16 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
+<h3>Frontend:</h3>
+ 
+ JavaScript | TypeScript | React JS | Vue JS | Svelte | Bootstrap | TailwindCSS | Sass | Redux
 
+<h3>Backend:</h3>
+
+NodeJs | Express JS | GraphQL | MongoDB | MySQL | PostgreSQL | Redis | Django
+
+<h3>Devops:</h3>
+AWS | Docker | Kubernetes | Linux | Git
+
+<h3>Other:</h3>
+Postman | Figma
