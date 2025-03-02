@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Aditya</h1>
 <h3>Full-stack Developer</h3>
 
-- 🔭 I’m currently working on [PeSe - A Fintech App](https://pese.in/) & [Mediquizs](https://mediquizs.vercel.app/)
+- 🔭 I’m currently working on [Voxizo Media](https://voxizo.com/) & [NeetVaidya](https://neetvaidya.in/)
 
 - 🌱 I’m currently learning **Artificial Intelligence**
 
